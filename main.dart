@@ -1,0 +1,1 @@
+// main.dart lengkap dengan UI, Firebase, AdMob, dan routing
